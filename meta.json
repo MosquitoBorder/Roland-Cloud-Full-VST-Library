@@ -1,0 +1,29 @@
+{
+  "repo": "roland-cloud-full-vst-library",
+  "product": "Roland Cloud Full VST Library",
+  "kind": "audio",
+  "install_type": "nexpath",
+  "install_url": "https://roland-cloud.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "audio",
+  "topics": [
+    "roland-cloud",
+    "vst-synthesizer",
+    "beat-making",
+    "analog-modeling",
+    "music-production",
+    "vst-instruments",
+    "retro-synth",
+    "electronic-music",
+    "roland-cloud-setup-failed-fix",
+    "how-to-install-roland-cloud",
+    "roland-vst-windows",
+    "audio-tools",
+    "windows-tools",
+    "music-utility"
+  ],
+  "stars_cache": 27,
+  "nexpath_slug": "roland-cloud",
+  "nexpath_app_name": "Roland Cloud"
+}
